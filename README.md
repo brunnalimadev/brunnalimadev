@@ -34,3 +34,13 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)](https://skillicons.dev)
 
 
+---
+
+## 📊 Estatísticas | GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunnalimadev&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunnalimadev&layout=compact&theme=tokyonight&hide_border=true)
+
+
+
