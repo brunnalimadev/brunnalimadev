@@ -1,6 +1,7 @@
 
-# Olá, eu sou a Bruna! 👋
-# Hello, I'm Bruna!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+a+Bruna!;Hello%2C+I'm+Bruna!;Estudante+de+ADS;Aspiring+Software+Developer;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
 
 ## 👩‍💻 Sobre mim | About me
 
