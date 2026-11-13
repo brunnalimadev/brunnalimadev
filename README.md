@@ -52,4 +52,20 @@ Follow my journey in the world of programming!
 [Minhas contribuições | My contributions](https://github.com/brunnalimadev#contribution-activity)
 
 
+---
+
+## 🎯 Meus objetivos | My Goals
+
+- 💻 Desenvolver minhas habilidades em programação.
+- 📚 Aprender novas linguagens e tecnologias.
+- 🚀 Construir projetos para meu portfólio.
+- 🌎 Conquistar minha primeira oportunidade na área de TI.
+
+---
+
+- 💻 Improve my programming skills.
+- 📚 Learn new languages and technologies.
+- 🚀 Build projects for my portfolio.
+- 🌎 Get my first opportunity in the tech industry.
+
 
