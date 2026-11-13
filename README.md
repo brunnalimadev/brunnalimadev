@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**brunnalimadev/brunnalimadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou a Bruna! 👋
+# Hello, I'm Bruna!
 
-Here are some ideas to get you started:
+## 👩‍💻 Sobre mim | About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+
+💻 Em transição de carreira para a área de Tecnologia.
+
+📚 Atualmente aprendendo HTML, CSS e JavaScript.
+
+🚀 Desenvolvendo meus primeiros projetos de programação.
+
+---
+
+🎓 Systems Analysis and Development student.
+
+💻 Transitioning into the technology field.
+
+📚 Currently learning HTML, CSS and JavaScript.
+
+🚀 Developing my first programming projects.
+
