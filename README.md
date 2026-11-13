@@ -1,5 +1,7 @@
 
-![Banner profissional](./banner.png)
+
+![Banner profissional](./Banner%20de%20Portf%C3%B3lio%20Tech%20da%20Bruna.png)
+
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+a+Bruna!;Hello%2C+I'm+Bruna!;Estudante+de+ADS;Aspiring+Software+Developer;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
