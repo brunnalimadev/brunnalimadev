@@ -36,11 +36,16 @@
 
 ---
 
-## 📊 Estatísticas | GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunnalimadev&show_icons=true&theme=tokyonight&hide_border=true)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunnalimadev&layout=compact&theme=tokyonight&hide_border=true)
+## 📊 Minha evolução | My Progress
+
+Acompanhe minha jornada no mundo da programação!
+
+Follow my journey in the world of programming!
+
+[Minhas contribuições | My contributions](https://github.com/brunnalimadev#contribution-activity)
 
 
 
