@@ -65,8 +65,6 @@ Site para apresentação de serviços de Personal Trainer, desenvolvido com aux�
 
 ---
 
-## 🌎 My Projects
-
 **Personal Portfolio:** My personal website developed while learning HTML, CSS and JavaScript.
 
 **Personal Trainer:** A website showcasing personal training services, built with the help of Lovable.
