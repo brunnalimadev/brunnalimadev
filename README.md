@@ -32,6 +32,13 @@
 ---
 
 ## 💻 Tecnologias | Technologies
+
+### 🌱 Em aprendizado | Currently learning
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)](https://skillicons.dev)
+
+---
+
 ## 🚀 Meus Projetos | My Projects
 
 ### 💻 Portfólio Pessoal
