@@ -32,6 +32,41 @@
 ---
 
 ## 💻 Tecnologias | Technologies
+## 🚀 Meus Projetos | My Projects
+
+### 💻 Portfólio Pessoal
+
+Meu primeiro portfólio desenvolvido durante os estudos de HTML, CSS e JavaScript.
+
+**Tecnologias:** HTML, CSS e JavaScript.
+
+🌐 [Visualizar site](https://brunnalimadev.github.io/SITE/)
+
+📂 [Ver código no GitHub](https://github.com/brunnalimadev/SITE)
+
+---
+
+### 💪 Personal Trainer
+
+Site para apresentação de serviços de Personal Trainer, desenvolvido com auxílio do Lovable.
+
+**Tecnologias:** TypeScript e ferramentas do Lovable.
+
+🌐 [Visualizar projeto](https://bruna-blue-motion.lovable.app)
+
+📂 [Ver código no GitHub](https://github.com/brunnalimadev/Personal-Trainer)
+
+---
+
+## 🌎 My Projects
+
+**Personal Portfolio:** My personal website developed while learning HTML, CSS and JavaScript.
+
+**Personal Trainer:** A website showcasing personal training services, built with the help of Lovable.
+
+Both projects are available through the links above.
+
+---
 
 ### 🌱 Em aprendizado | Currently learning
 
