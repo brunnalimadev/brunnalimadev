@@ -75,16 +75,6 @@ Both projects are available through the links above.
 
 ---
 
-### 🌱 Em aprendizado | Currently learning
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)](https://skillicons.dev)
-
-
----
-
-
----
-
 ## 📊 Minha evolução | My Progress
 
 Acompanhe minha jornada no mundo da programação!
