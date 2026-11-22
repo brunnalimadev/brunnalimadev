@@ -41,35 +41,31 @@
 
 ## 🚀 Meus Projetos | My Projects
 
-### 💻 Portfólio Pessoal
+### 💻 Portfólio Pessoal | Personal Portfolio
 
-Meu primeiro portfólio desenvolvido durante os estudos de HTML, CSS e JavaScript.
+🇧🇷 Meu primeiro portfólio desenvolvido durante os estudos de HTML, CSS e JavaScript.
 
-**Tecnologias:** HTML, CSS e JavaScript.
+🇺🇸 My personal website developed while learning HTML, CSS and JavaScript.
 
-🌐 [Visualizar site](https://brunnalimadev.github.io/SITE/)
+**Tecnologias | Technologies:** HTML, CSS e JavaScript.
 
-📂 [Ver código no GitHub](https://github.com/brunnalimadev/SITE)
+🌐 [Visualizar site | View website](https://brunnalimadev.github.io/SITE/)
+
+📂 [Ver código | Source code](https://github.com/brunnalimadev/SITE)
 
 ---
 
 ### 💪 Personal Trainer
 
-Site para apresentação de serviços de Personal Trainer, desenvolvido com auxílio do Lovable.
+🇧🇷 Site para apresentação de serviços de Personal Trainer, desenvolvido com auxílio do Lovable.
 
-**Tecnologias:** TypeScript e ferramentas do Lovable.
+🇺🇸 A website showcasing personal training services, built with the help of Lovable.
 
-🌐 [Visualizar projeto](https://bruna-blue-motion.lovable.app)
+**Tecnologias | Technologies:** TypeScript e Lovable.
 
-📂 [Ver código no GitHub](https://github.com/brunnalimadev/Personal-Trainer)
+🌐 [Visualizar projeto | View project](https://bruna-blue-motion.lovable.app)
 
----
-
-**Personal Portfolio:** My personal website developed while learning HTML, CSS and JavaScript.
-
-**Personal Trainer:** A website showcasing personal training services, built with the help of Lovable.
-
-Both projects are available through the links above.
+📂 [Ver código | Source code](https://github.com/brunnalimadev/Personal-Trainer)
 
 ---
 
